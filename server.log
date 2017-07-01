@@ -1,0 +1,1261 @@
+2017-06-29 17:43:06 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 17:43:06 [INFO] Loading properties
+2017-06-29 17:43:06 [WARNING] server.properties does not exist
+2017-06-29 17:43:06 [INFO] Generating new properties file
+2017-06-29 17:43:06 [INFO] Default game type: SURVIVAL
+2017-06-29 17:43:06 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 17:43:06 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Le fichier spécifié est introuvable)
+2017-06-29 17:43:06 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Le fichier spécifié est introuvable)
+2017-06-29 17:43:06 [INFO] Generating keypair
+2017-06-29 17:43:06 [INFO] Starting Minecraft server on *:25565
+2017-06-29 17:43:06 [INFO] Preparing level "world"
+2017-06-29 17:43:07 [INFO] -------- World Settings For [world] --------
+2017-06-29 17:43:07 [INFO] View Distance: 10
+2017-06-29 17:43:07 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:07 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:07 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:07 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:07 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:07 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:07 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:07 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:07 [INFO] Anti X-Ray: true
+2017-06-29 17:43:07 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:07 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:07 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:07 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:07 [INFO] Structure Info Saving: true
+2017-06-29 17:43:07 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:07 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 17:43:07 [INFO] View Distance: 10
+2017-06-29 17:43:07 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:07 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:07 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:07 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:07 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:07 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:07 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:07 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:07 [INFO] Anti X-Ray: true
+2017-06-29 17:43:07 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:07 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:07 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:07 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:07 [INFO] Structure Info Saving: true
+2017-06-29 17:43:07 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:07 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 17:43:07 [INFO] View Distance: 10
+2017-06-29 17:43:07 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:07 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:07 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:07 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:07 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:07 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:07 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:07 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:07 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:07 [INFO] Anti X-Ray: true
+2017-06-29 17:43:07 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:07 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:07 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:07 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:07 [INFO] Structure Info Saving: true
+2017-06-29 17:43:07 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:07 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 17:43:08 [INFO] Preparing spawn area: 26%
+2017-06-29 17:43:09 [INFO] Preparing spawn area: 62%
+2017-06-29 17:43:10 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 17:43:11 [INFO] Preparing spawn area: 39%
+2017-06-29 17:43:12 [INFO] Preparing spawn area: 81%
+2017-06-29 17:43:12 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 17:43:13 [INFO] Done (6,543s)! For help, type "help" or "?"
+2017-06-29 17:43:13 [INFO] * ** ***SERVER UNABLE TO START *** ** *
+2017-06-29 17:43:13 [INFO] * You have to have at least ONE plugin installed on your server! *
+2017-06-29 17:43:13 [INFO] Stopping server
+2017-06-29 17:43:18 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 17:43:18 [INFO] Loading properties
+2017-06-29 17:43:18 [INFO] Default game type: SURVIVAL
+2017-06-29 17:43:18 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 17:43:18 [INFO] Generating keypair
+2017-06-29 17:43:18 [INFO] Starting Minecraft server on *:25565
+2017-06-29 17:43:18 [INFO] Preparing level "world"
+2017-06-29 17:43:18 [INFO] -------- World Settings For [world] --------
+2017-06-29 17:43:18 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:18 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:18 [INFO] View Distance: 10
+2017-06-29 17:43:18 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:18 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:18 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:18 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:18 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:18 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:18 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:18 [INFO] Structure Info Saving: true
+2017-06-29 17:43:18 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:18 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:18 [INFO] Anti X-Ray: true
+2017-06-29 17:43:18 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:18 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:18 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 17:43:18 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:18 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:18 [INFO] View Distance: 10
+2017-06-29 17:43:18 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:18 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:18 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:18 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:18 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:18 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:18 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:18 [INFO] Structure Info Saving: true
+2017-06-29 17:43:18 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:18 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:18 [INFO] Anti X-Ray: true
+2017-06-29 17:43:18 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:18 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:18 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 17:43:18 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:18 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:18 [INFO] View Distance: 10
+2017-06-29 17:43:18 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:18 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:18 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:18 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:18 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:18 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:18 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:18 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:18 [INFO] Structure Info Saving: true
+2017-06-29 17:43:18 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:18 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:18 [INFO] Anti X-Ray: true
+2017-06-29 17:43:18 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:18 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:18 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 17:43:19 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 17:43:19 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 17:43:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 17:43:20 [INFO] Done (1,269s)! For help, type "help" or "?"
+2017-06-29 17:43:20 [INFO] * ** ***SERVER UNABLE TO START *** ** *
+2017-06-29 17:43:20 [INFO] * You have to have at least ONE plugin installed on your server! *
+2017-06-29 17:43:20 [INFO] Stopping server
+2017-06-29 17:43:26 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 17:43:26 [INFO] Loading properties
+2017-06-29 17:43:26 [INFO] Default game type: SURVIVAL
+2017-06-29 17:43:27 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 17:43:27 [INFO] Generating keypair
+2017-06-29 17:43:27 [INFO] Starting Minecraft server on *:25565
+2017-06-29 17:43:27 [INFO] Preparing level "world"
+2017-06-29 17:43:27 [INFO] -------- World Settings For [world] --------
+2017-06-29 17:43:27 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:27 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:27 [INFO] View Distance: 10
+2017-06-29 17:43:27 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:27 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:27 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:27 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:27 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:27 [INFO] Anti X-Ray: true
+2017-06-29 17:43:27 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:27 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:27 [INFO] Structure Info Saving: true
+2017-06-29 17:43:27 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:27 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:27 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:27 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:27 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 17:43:27 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:27 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:27 [INFO] View Distance: 10
+2017-06-29 17:43:27 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:27 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:27 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:27 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:27 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:27 [INFO] Anti X-Ray: true
+2017-06-29 17:43:27 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:27 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:27 [INFO] Structure Info Saving: true
+2017-06-29 17:43:27 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:27 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:27 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:27 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:27 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 17:43:27 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:43:27 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:43:27 [INFO] View Distance: 10
+2017-06-29 17:43:27 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:43:27 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:43:27 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:43:27 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:43:27 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:43:27 [INFO] Mob Spawn Range: 4
+2017-06-29 17:43:27 [INFO] Anti X-Ray: true
+2017-06-29 17:43:27 [INFO] 	Engine Mode: 1
+2017-06-29 17:43:27 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:43:27 [INFO] Structure Info Saving: true
+2017-06-29 17:43:27 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:43:27 [INFO] Random Lighting Updates: false
+2017-06-29 17:43:27 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:43:27 [INFO] Zombie Reinforcement: true
+2017-06-29 17:43:27 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 17:43:28 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 17:43:28 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 17:43:28 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 17:43:28 [INFO] Done (1,270s)! For help, type "help" or "?"
+2017-06-29 17:43:28 [INFO] * ** ***SERVER UNABLE TO START *** ** *
+2017-06-29 17:43:28 [INFO] * You have to have at least ONE plugin installed on your server! *
+2017-06-29 17:43:28 [INFO] Stopping server
+2017-06-29 17:44:31 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 17:44:31 [INFO] Loading properties
+2017-06-29 17:44:31 [INFO] Default game type: SURVIVAL
+2017-06-29 17:44:31 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 17:44:31 [INFO] Generating keypair
+2017-06-29 17:44:31 [INFO] Starting Minecraft server on *:25565
+2017-06-29 17:44:31 [INFO] Preparing level "world"
+2017-06-29 17:44:31 [INFO] -------- World Settings For [world] --------
+2017-06-29 17:44:31 [INFO] View Distance: 10
+2017-06-29 17:44:31 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:44:31 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:44:31 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:44:31 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:44:31 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:44:31 [INFO] Zombie Reinforcement: true
+2017-06-29 17:44:31 [INFO] Structure Info Saving: true
+2017-06-29 17:44:31 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:44:31 [INFO] Random Lighting Updates: false
+2017-06-29 17:44:31 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:44:31 [INFO] Anti X-Ray: true
+2017-06-29 17:44:31 [INFO] 	Engine Mode: 1
+2017-06-29 17:44:31 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:44:31 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:44:31 [INFO] Mob Spawn Range: 4
+2017-06-29 17:44:31 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 17:44:31 [INFO] View Distance: 10
+2017-06-29 17:44:31 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:44:31 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:44:31 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:44:31 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:44:31 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:44:31 [INFO] Zombie Reinforcement: true
+2017-06-29 17:44:31 [INFO] Structure Info Saving: true
+2017-06-29 17:44:31 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:44:31 [INFO] Random Lighting Updates: false
+2017-06-29 17:44:31 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:44:31 [INFO] Anti X-Ray: true
+2017-06-29 17:44:31 [INFO] 	Engine Mode: 1
+2017-06-29 17:44:31 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:44:31 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:44:31 [INFO] Mob Spawn Range: 4
+2017-06-29 17:44:31 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:44:31 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 17:44:32 [INFO] View Distance: 10
+2017-06-29 17:44:32 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:44:32 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:44:32 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:44:32 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:44:32 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:44:32 [INFO] Zombie Reinforcement: true
+2017-06-29 17:44:32 [INFO] Structure Info Saving: true
+2017-06-29 17:44:32 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:44:32 [INFO] Random Lighting Updates: false
+2017-06-29 17:44:32 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:44:32 [INFO] Anti X-Ray: true
+2017-06-29 17:44:32 [INFO] 	Engine Mode: 1
+2017-06-29 17:44:32 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:44:32 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:44:32 [INFO] Mob Spawn Range: 4
+2017-06-29 17:44:32 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:44:32 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 17:44:32 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 17:44:33 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 17:44:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 17:44:33 [INFO] Done (1,302s)! For help, type "help" or "?"
+2017-06-29 17:44:33 [INFO] * ** ***SERVER UNABLE TO START *** ** *
+2017-06-29 17:44:33 [INFO] * You have to have at least ONE plugin installed on your server! *
+2017-06-29 17:44:33 [INFO] Stopping server
+2017-06-29 17:44:57 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 17:44:57 [INFO] Loading properties
+2017-06-29 17:44:57 [INFO] Default game type: SURVIVAL
+2017-06-29 17:44:57 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 17:44:57 [INFO] Generating keypair
+2017-06-29 17:44:57 [INFO] Starting Minecraft server on *:25565
+2017-06-29 17:44:58 [INFO] Preparing level "world"
+2017-06-29 17:44:58 [INFO] -------- World Settings For [world] --------
+2017-06-29 17:44:58 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:44:58 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:44:58 [INFO] View Distance: 10
+2017-06-29 17:44:58 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:44:58 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:44:58 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:44:58 [INFO] Zombie Reinforcement: true
+2017-06-29 17:44:58 [INFO] Anti X-Ray: true
+2017-06-29 17:44:58 [INFO] 	Engine Mode: 1
+2017-06-29 17:44:58 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:44:58 [INFO] Mob Spawn Range: 4
+2017-06-29 17:44:58 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:44:58 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:44:58 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:44:58 [INFO] Random Lighting Updates: false
+2017-06-29 17:44:58 [INFO] Structure Info Saving: true
+2017-06-29 17:44:58 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 17:44:58 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:44:58 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:44:58 [INFO] View Distance: 10
+2017-06-29 17:44:58 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:44:58 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:44:58 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:44:58 [INFO] Zombie Reinforcement: true
+2017-06-29 17:44:58 [INFO] Anti X-Ray: true
+2017-06-29 17:44:58 [INFO] 	Engine Mode: 1
+2017-06-29 17:44:58 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:44:58 [INFO] Mob Spawn Range: 4
+2017-06-29 17:44:58 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:44:58 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:44:58 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:44:58 [INFO] Random Lighting Updates: false
+2017-06-29 17:44:58 [INFO] Structure Info Saving: true
+2017-06-29 17:44:58 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 17:44:58 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:44:58 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:44:58 [INFO] View Distance: 10
+2017-06-29 17:44:58 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:44:58 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:44:58 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:44:58 [INFO] Zombie Reinforcement: true
+2017-06-29 17:44:58 [INFO] Anti X-Ray: true
+2017-06-29 17:44:58 [INFO] 	Engine Mode: 1
+2017-06-29 17:44:58 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:44:58 [INFO] Mob Spawn Range: 4
+2017-06-29 17:44:58 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:44:58 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:44:58 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:44:58 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:44:58 [INFO] Random Lighting Updates: false
+2017-06-29 17:44:58 [INFO] Structure Info Saving: true
+2017-06-29 17:44:58 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 17:44:58 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 17:44:59 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 17:44:59 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 17:44:59 [INFO] Done (1,311s)! For help, type "help" or "?"
+2017-06-29 17:44:59 [INFO] * ** ***SERVER UNABLE TO START *** ** *
+2017-06-29 17:44:59 [INFO] * You have to have at least ONE plugin installed on your server! *
+2017-06-29 17:44:59 [INFO] Stopping server
+2017-06-29 17:45:34 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 17:45:34 [INFO] Loading properties
+2017-06-29 17:45:34 [INFO] Default game type: SURVIVAL
+2017-06-29 17:45:34 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 17:45:34 [INFO] Generating keypair
+2017-06-29 17:45:34 [INFO] Starting Minecraft server on *:25565
+2017-06-29 17:45:34 [INFO] [Essentials] Loading Essentials v2.12.2
+2017-06-29 17:45:34 [INFO] Preparing level "world"
+2017-06-29 17:45:34 [INFO] -------- World Settings For [world] --------
+2017-06-29 17:45:34 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:45:34 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:45:34 [INFO] View Distance: 10
+2017-06-29 17:45:34 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:45:34 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:45:34 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:45:34 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:45:34 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:45:34 [INFO] Anti X-Ray: true
+2017-06-29 17:45:34 [INFO] 	Engine Mode: 1
+2017-06-29 17:45:34 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:45:34 [INFO] Random Lighting Updates: false
+2017-06-29 17:45:34 [INFO] Structure Info Saving: true
+2017-06-29 17:45:34 [INFO] Mob Spawn Range: 4
+2017-06-29 17:45:34 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:45:34 [INFO] Zombie Reinforcement: true
+2017-06-29 17:45:34 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 17:45:34 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:45:34 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:45:34 [INFO] View Distance: 10
+2017-06-29 17:45:34 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:45:34 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:45:34 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:45:34 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:45:34 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:45:34 [INFO] Anti X-Ray: true
+2017-06-29 17:45:34 [INFO] 	Engine Mode: 1
+2017-06-29 17:45:34 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:45:34 [INFO] Random Lighting Updates: false
+2017-06-29 17:45:34 [INFO] Structure Info Saving: true
+2017-06-29 17:45:34 [INFO] Mob Spawn Range: 4
+2017-06-29 17:45:34 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:45:34 [INFO] Zombie Reinforcement: true
+2017-06-29 17:45:34 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 17:45:34 [INFO] Experience Merge Radius: 3.0
+2017-06-29 17:45:34 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 17:45:34 [INFO] View Distance: 10
+2017-06-29 17:45:34 [INFO] Item Merge Radius: 2.5
+2017-06-29 17:45:34 [INFO] Item Despawn Rate: 6000
+2017-06-29 17:45:34 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 17:45:34 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 17:45:34 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 17:45:34 [INFO] Anti X-Ray: true
+2017-06-29 17:45:34 [INFO] 	Engine Mode: 1
+2017-06-29 17:45:34 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 17:45:34 [INFO] Random Lighting Updates: false
+2017-06-29 17:45:34 [INFO] Structure Info Saving: true
+2017-06-29 17:45:34 [INFO] Mob Spawn Range: 4
+2017-06-29 17:45:34 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Cane Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Melon Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 17:45:34 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 17:45:34 [INFO] Zombie Reinforcement: true
+2017-06-29 17:45:34 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 17:45:35 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 17:45:35 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 17:45:35 [INFO] [Essentials] Enabling Essentials v2.12.2
+2017-06-29 17:45:35 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2017-06-29 17:45:35 [INFO] git-Spigot-unknown (MC: 1.7.2)
+2017-06-29 17:45:35 [INFO] 1.6.4-R2.1-SNAPSHOT
+2017-06-29 17:45:35 [INFO] Création de la configuration à partir du modèle : F:\DEV_MINECRAFT\_SERVEUR\plugins\Essentials\config.yml
+2017-06-29 17:45:35 [INFO] Création d'une configuration vierge : F:\DEV_MINECRAFT\_SERVEUR\plugins\Essentials\upgrades-done.yml
+2017-06-29 17:45:35 [INFO] Création de la configuration à partir du modèle : F:\DEV_MINECRAFT\_SERVEUR\plugins\Essentials\worth.yml
+2017-06-29 17:45:35 [INFO] [Essentials] This plugin collects minimal statistic data and sends it to http://metrics.essentials3.net.
+2017-06-29 17:45:35 [INFO] [Essentials] You can opt out, disabling metrics for all plugins, by running /essentials opt-out
+2017-06-29 17:45:35 [INFO] [Essentials] This will start 5 minutes after the first admin/op joins.
+2017-06-29 17:45:35 [INFO] Essentials: Using config file enhanced permissions.
+2017-06-29 17:45:35 [INFO] Permissions listed in as player-commands will be given to all users.
+2017-06-29 17:45:35 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 17:45:36 [INFO] Done (1,463s)! For help, type "help" or "?"
+2017-06-29 17:45:36 [INFO] HotFixer hooked into Essentials for fixing bugs. (c) Kangarko
+2017-06-29 17:45:38 [INFO] CONSOLE issued server command: /list 
+2017-06-29 17:45:38 [INFO] [0;34;1mIl y a [0;31;1m0[0;34;1m joueurs en ligne sur [0;31;1m20[0;34;1m au total.[m
+2017-06-29 18:02:13 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 18:02:13 [INFO] Loading properties
+2017-06-29 18:02:13 [INFO] Default game type: SURVIVAL
+2017-06-29 18:02:13 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 18:02:13 [INFO] Generating keypair
+2017-06-29 18:02:13 [INFO] Starting Minecraft server on *:25565
+2017-06-29 18:02:13 [INFO] [Essentials] Loading Essentials v2.12.2
+2017-06-29 18:02:13 [INFO] [FirstPlugin] Loading FirstPlugin v1.0
+2017-06-29 18:02:13 [INFO] Preparing level "world"
+2017-06-29 18:02:13 [INFO] -------- World Settings For [world] --------
+2017-06-29 18:02:13 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:02:13 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:02:13 [INFO] View Distance: 10
+2017-06-29 18:02:13 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:02:13 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:02:13 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:02:13 [INFO] Zombie Reinforcement: true
+2017-06-29 18:02:13 [INFO] Anti X-Ray: true
+2017-06-29 18:02:13 [INFO] 	Engine Mode: 1
+2017-06-29 18:02:13 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:02:13 [INFO] Mob Spawn Range: 4
+2017-06-29 18:02:13 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Random Lighting Updates: false
+2017-06-29 18:02:13 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:02:13 [INFO] Structure Info Saving: true
+2017-06-29 18:02:13 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:02:13 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:02:13 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 18:02:13 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:02:13 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:02:13 [INFO] View Distance: 10
+2017-06-29 18:02:13 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:02:13 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:02:13 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:02:13 [INFO] Zombie Reinforcement: true
+2017-06-29 18:02:13 [INFO] Anti X-Ray: true
+2017-06-29 18:02:13 [INFO] 	Engine Mode: 1
+2017-06-29 18:02:13 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:02:13 [INFO] Mob Spawn Range: 4
+2017-06-29 18:02:13 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:02:13 [INFO] Random Lighting Updates: false
+2017-06-29 18:02:13 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:02:13 [INFO] Structure Info Saving: true
+2017-06-29 18:02:13 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:02:13 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:02:14 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 18:02:14 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:02:14 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:02:14 [INFO] View Distance: 10
+2017-06-29 18:02:14 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:02:14 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:02:14 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:02:14 [INFO] Zombie Reinforcement: true
+2017-06-29 18:02:14 [INFO] Anti X-Ray: true
+2017-06-29 18:02:14 [INFO] 	Engine Mode: 1
+2017-06-29 18:02:14 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:02:14 [INFO] Mob Spawn Range: 4
+2017-06-29 18:02:14 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:02:14 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:02:14 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:02:14 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:02:14 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:02:14 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:02:14 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:02:14 [INFO] Random Lighting Updates: false
+2017-06-29 18:02:14 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:02:14 [INFO] Structure Info Saving: true
+2017-06-29 18:02:14 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:02:14 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:02:14 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 18:02:14 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 18:02:15 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 18:02:15 [INFO] [Essentials] Enabling Essentials v2.12.2
+2017-06-29 18:02:15 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2017-06-29 18:02:15 [INFO] git-Spigot-unknown (MC: 1.7.2)
+2017-06-29 18:02:15 [INFO] 1.6.4-R2.1-SNAPSHOT
+2017-06-29 18:02:15 [INFO] Essentials: Using config file enhanced permissions.
+2017-06-29 18:02:15 [INFO] Permissions listed in as player-commands will be given to all users.
+2017-06-29 18:02:15 [INFO] [FirstPlugin] Enabling FirstPlugin v1.0
+2017-06-29 18:02:15 [INFO] [FirstPlugin] Hello iBalix !
+2017-06-29 18:02:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 18:02:15 [INFO] Done (1,531s)! For help, type "help" or "?"
+2017-06-29 18:02:15 [INFO] HotFixer hooked into Essentials for fixing bugs. (c) Kangarko
+2017-06-29 18:02:17 [INFO] Plugins (2): [0;32;1mEssentials[0;37;1m, [0;32;1mFirstPlugin[m
+2017-06-29 18:05:38 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:05:38 [SEVERE] Error caught whilst handling [id: 0xe818708c, /127.0.0.1:58474 => /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.lang.RuntimeException: No packet with id 78
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.RuntimeException: No packet with id 78
+	at org.spigotmc.netty.Protocol$ProtocolDirection.createPacket(Protocol.java:276)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:46)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:05:38 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:05:38 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:05:38 [SEVERE] Error caught whilst handling [id: 0xe818708c, /127.0.0.1:58474 :> /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.io.EOFException
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:147)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at net.minecraft.server.v1_6_R3.Packet.a(Packet.java:250)
+	at net.minecraft.server.v1_6_R3.Packet2Handshake.a(Packet2Handshake.java:22)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:50)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:05:38 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:06:19 [INFO] CONSOLE issued server command: /list 
+2017-06-29 18:06:19 [INFO] [0;34;1mIl y a [0;31;1m0[0;34;1m joueurs en ligne sur [0;31;1m20[0;34;1m au total.[m
+2017-06-29 18:06:44 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:06:44 [SEVERE] Error caught whilst handling [id: 0xf5b5cf1e, /127.0.0.1:58524 => /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.lang.RuntimeException: No packet with id 78
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.RuntimeException: No packet with id 78
+	at org.spigotmc.netty.Protocol$ProtocolDirection.createPacket(Protocol.java:276)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:46)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:06:44 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:06:44 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:06:44 [SEVERE] Error caught whilst handling [id: 0xf5b5cf1e, /127.0.0.1:58524 :> /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.io.EOFException
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:147)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at net.minecraft.server.v1_6_R3.Packet.a(Packet.java:250)
+	at net.minecraft.server.v1_6_R3.Packet2Handshake.a(Packet2Handshake.java:22)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:50)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:06:44 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:08:05 [INFO] CONSOLE: Stopping the server..[m
+2017-06-29 18:08:05 [INFO] Stopping server
+2017-06-29 18:08:05 [INFO] [FirstPlugin] Disabling FirstPlugin v1.0
+2017-06-29 18:08:05 [INFO] [FirstPlugin] Bye iBalix !
+2017-06-29 18:08:05 [INFO] [Essentials] Disabling Essentials v2.12.2
+2017-06-29 18:08:05 [INFO] Saving players
+2017-06-29 18:08:05 [INFO] Saving worlds
+2017-06-29 18:08:05 [INFO] Saving chunks for level 'world'/Overworld
+2017-06-29 18:08:05 [INFO] Saving chunks for level 'world_nether'/Nether
+2017-06-29 18:08:05 [INFO] Saving chunks for level 'world_the_end'/The End
+2017-06-29 18:08:18 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 18:08:18 [INFO] Loading properties
+2017-06-29 18:08:18 [INFO] Default game type: SURVIVAL
+2017-06-29 18:08:18 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 18:08:18 [INFO] Generating keypair
+2017-06-29 18:08:18 [INFO] Starting Minecraft server on *:25565
+2017-06-29 18:08:19 [INFO] [Essentials] Loading Essentials v2.12.2
+2017-06-29 18:08:19 [INFO] Preparing level "world"
+2017-06-29 18:08:19 [INFO] -------- World Settings For [world] --------
+2017-06-29 18:08:19 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:08:19 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:08:19 [INFO] View Distance: 10
+2017-06-29 18:08:19 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:08:19 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:08:19 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:08:19 [INFO] Zombie Reinforcement: true
+2017-06-29 18:08:19 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:08:19 [INFO] Anti X-Ray: true
+2017-06-29 18:08:19 [INFO] 	Engine Mode: 1
+2017-06-29 18:08:19 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:08:19 [INFO] Mob Spawn Range: 4
+2017-06-29 18:08:19 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:08:19 [INFO] Random Lighting Updates: false
+2017-06-29 18:08:19 [INFO] Structure Info Saving: true
+2017-06-29 18:08:19 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:08:19 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 18:08:19 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:08:19 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:08:19 [INFO] View Distance: 10
+2017-06-29 18:08:19 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:08:19 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:08:19 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:08:19 [INFO] Zombie Reinforcement: true
+2017-06-29 18:08:19 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:08:19 [INFO] Anti X-Ray: true
+2017-06-29 18:08:19 [INFO] 	Engine Mode: 1
+2017-06-29 18:08:19 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:08:19 [INFO] Mob Spawn Range: 4
+2017-06-29 18:08:19 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:08:19 [INFO] Random Lighting Updates: false
+2017-06-29 18:08:19 [INFO] Structure Info Saving: true
+2017-06-29 18:08:19 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:08:19 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 18:08:19 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:08:19 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:08:19 [INFO] View Distance: 10
+2017-06-29 18:08:19 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:08:19 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:08:19 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:08:19 [INFO] Zombie Reinforcement: true
+2017-06-29 18:08:19 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:08:19 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:08:19 [INFO] Anti X-Ray: true
+2017-06-29 18:08:19 [INFO] 	Engine Mode: 1
+2017-06-29 18:08:19 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:08:19 [INFO] Mob Spawn Range: 4
+2017-06-29 18:08:19 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:08:19 [INFO] Random Lighting Updates: false
+2017-06-29 18:08:19 [INFO] Structure Info Saving: true
+2017-06-29 18:08:19 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:08:19 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 18:08:19 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 18:08:20 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 18:08:20 [INFO] [Essentials] Enabling Essentials v2.12.2
+2017-06-29 18:08:20 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2017-06-29 18:08:20 [INFO] git-Spigot-unknown (MC: 1.7.2)
+2017-06-29 18:08:20 [INFO] 1.6.4-R2.1-SNAPSHOT
+2017-06-29 18:08:20 [INFO] Essentials: Using config file enhanced permissions.
+2017-06-29 18:08:20 [INFO] Permissions listed in as player-commands will be given to all users.
+2017-06-29 18:08:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 18:08:20 [INFO] Done (1,099s)! For help, type "help" or "?"
+2017-06-29 18:08:20 [INFO] HotFixer hooked into Essentials for fixing bugs. (c) Kangarko
+2017-06-29 18:08:22 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:08:22 [SEVERE] Error caught whilst handling [id: 0xa5410941, /127.0.0.1:58601 => /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.lang.RuntimeException: No packet with id 78
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.RuntimeException: No packet with id 78
+	at org.spigotmc.netty.Protocol$ProtocolDirection.createPacket(Protocol.java:276)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:46)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:08:22 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:08:22 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:08:22 [SEVERE] Error caught whilst handling [id: 0xa5410941, /127.0.0.1:58601 :> /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.io.EOFException
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:147)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at net.minecraft.server.v1_6_R3.Packet.a(Packet.java:250)
+	at net.minecraft.server.v1_6_R3.Packet2Handshake.a(Packet2Handshake.java:22)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:50)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:08:22 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:08:27 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:08:27 [SEVERE] Error caught whilst handling [id: 0xd2d770f8, /127.0.0.1:58604 => /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.lang.RuntimeException: No packet with id 78
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.RuntimeException: No packet with id 78
+	at org.spigotmc.netty.Protocol$ProtocolDirection.createPacket(Protocol.java:276)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:46)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:08:27 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:08:27 [SEVERE] ======================= Start Netty Debug Log - Ignore if this isn't causing issues =======================
+2017-06-29 18:08:27 [SEVERE] Error caught whilst handling [id: 0xd2d770f8, /127.0.0.1:58604 :> /127.0.0.1:25565]
+io.netty.handler.codec.DecoderException: java.io.EOFException
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:263)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:147)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:173)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.codec.ByteToMessageDecoder.handlerRemoved(ByteToMessageDecoder.java:109)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved0(DefaultChannelPipeline.java:524)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerRemoved(DefaultChannelPipeline.java:518)
+	at io.netty.channel.DefaultChannelPipeline.remove0(DefaultChannelPipeline.java:348)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:319)
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:296)
+	at org.spigotmc.netty.LegacyDecoder.decode(LegacyDecoder.java:40)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:131)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.handler.timeout.ReadTimeoutHandler.channelRead(ReadTimeoutHandler.java:149)
+	at io.netty.channel.DefaultChannelHandlerContext.invokeChannelRead(DefaultChannelHandlerContext.java:337)
+	at io.netty.channel.DefaultChannelHandlerContext.fireChannelRead(DefaultChannelHandlerContext.java:323)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:785)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:100)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:478)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:447)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:341)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:101)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at java.io.DataInputStream.readFully(Unknown Source)
+	at net.minecraft.server.v1_6_R3.Packet.a(Packet.java:250)
+	at net.minecraft.server.v1_6_R3.Packet2Handshake.a(Packet2Handshake.java:22)
+	at org.spigotmc.netty.PacketDecoder.decode(PacketDecoder.java:50)
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:232)
+	... 27 more
+2017-06-29 18:08:27 [SEVERE] ======================= End Netty Debug Log =======================
+2017-06-29 18:08:34 [INFO] CONSOLE: Stopping the server..[m
+2017-06-29 18:08:34 [INFO] Stopping server
+2017-06-29 18:08:34 [INFO] [Essentials] Disabling Essentials v2.12.2
+2017-06-29 18:08:34 [INFO] Saving players
+2017-06-29 18:08:34 [INFO] Saving worlds
+2017-06-29 18:08:34 [INFO] Saving chunks for level 'world'/Overworld
+2017-06-29 18:08:34 [INFO] Saving chunks for level 'world_nether'/Nether
+2017-06-29 18:08:34 [INFO] Saving chunks for level 'world_the_end'/The End
+2017-06-29 18:08:34 [INFO] Stopping server
+2017-06-29 18:31:22 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 18:31:22 [INFO] Loading properties
+2017-06-29 18:31:22 [INFO] Default game type: SURVIVAL
+2017-06-29 18:31:22 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 18:31:22 [INFO] Generating keypair
+2017-06-29 18:31:22 [INFO] Starting Minecraft server on *:25565
+2017-06-29 18:31:23 [INFO] [Essentials] Loading Essentials v2.12.2
+2017-06-29 18:31:23 [INFO] [FirstPlugin] Loading FirstPlugin v1.0
+2017-06-29 18:31:23 [INFO] Preparing level "world"
+2017-06-29 18:31:23 [INFO] -------- World Settings For [world] --------
+2017-06-29 18:31:23 [INFO] View Distance: 10
+2017-06-29 18:31:23 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:31:23 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:31:23 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:31:23 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:31:23 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:31:23 [INFO] Zombie Reinforcement: true
+2017-06-29 18:31:23 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:31:23 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:31:23 [INFO] Anti X-Ray: true
+2017-06-29 18:31:23 [INFO] 	Engine Mode: 1
+2017-06-29 18:31:23 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:31:23 [INFO] Mob Spawn Range: 4
+2017-06-29 18:31:23 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:31:23 [INFO] Structure Info Saving: true
+2017-06-29 18:31:23 [INFO] Random Lighting Updates: false
+2017-06-29 18:31:23 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 18:31:23 [INFO] View Distance: 10
+2017-06-29 18:31:23 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:31:23 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:31:23 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:31:23 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:31:23 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:31:23 [INFO] Zombie Reinforcement: true
+2017-06-29 18:31:23 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:31:23 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:31:23 [INFO] Anti X-Ray: true
+2017-06-29 18:31:23 [INFO] 	Engine Mode: 1
+2017-06-29 18:31:23 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:31:23 [INFO] Mob Spawn Range: 4
+2017-06-29 18:31:23 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:31:23 [INFO] Structure Info Saving: true
+2017-06-29 18:31:23 [INFO] Random Lighting Updates: false
+2017-06-29 18:31:23 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 18:31:23 [INFO] View Distance: 10
+2017-06-29 18:31:23 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 18:31:23 [INFO] Experience Merge Radius: 3.0
+2017-06-29 18:31:23 [INFO] Item Merge Radius: 2.5
+2017-06-29 18:31:23 [INFO] Item Despawn Rate: 6000
+2017-06-29 18:31:23 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 18:31:23 [INFO] Zombie Reinforcement: true
+2017-06-29 18:31:23 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Cane Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Melon Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 18:31:23 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 18:31:23 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 18:31:23 [INFO] Anti X-Ray: true
+2017-06-29 18:31:23 [INFO] 	Engine Mode: 1
+2017-06-29 18:31:23 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 18:31:23 [INFO] Mob Spawn Range: 4
+2017-06-29 18:31:23 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 18:31:23 [INFO] Structure Info Saving: true
+2017-06-29 18:31:23 [INFO] Random Lighting Updates: false
+2017-06-29 18:31:23 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 18:31:23 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 18:31:23 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 18:31:23 [INFO] [Essentials] Enabling Essentials v2.12.2
+2017-06-29 18:31:23 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2017-06-29 18:31:23 [INFO] git-Spigot-unknown (MC: 1.7.2)
+2017-06-29 18:31:23 [INFO] 1.6.4-R2.1-SNAPSHOT
+2017-06-29 18:31:24 [INFO] Essentials: Using config file enhanced permissions.
+2017-06-29 18:31:24 [INFO] Permissions listed in as player-commands will be given to all users.
+2017-06-29 18:31:24 [INFO] [FirstPlugin] Enabling FirstPlugin v1.0
+2017-06-29 18:31:24 [INFO] [FirstPlugin] Hello iBalix !
+2017-06-29 18:31:24 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 18:31:24 [INFO] Done (1,112s)! For help, type "help" or "?"
+2017-06-29 18:31:24 [INFO] HotFixer hooked into Essentials for fixing bugs. (c) Kangarko
+2017-06-29 18:31:26 [INFO] Plugins (2): [0;32;1mEssentials[0;37;1m, [0;32;1mFirstPlugin[m
+2017-06-29 21:53:20 [INFO] Starting minecraft server version 1.7.2
+2017-06-29 21:53:20 [INFO] Loading properties
+2017-06-29 21:53:20 [INFO] Default game type: SURVIVAL
+2017-06-29 21:53:20 [INFO] This server is running Spukkit b21 (1.7.2) (Implementing API 1.7.2-R0.1)
+2017-06-29 21:53:20 [INFO] Generating keypair
+2017-06-29 21:53:20 [INFO] Starting Minecraft server on *:25565
+2017-06-29 21:53:21 [INFO] [Essentials] Loading Essentials v2.12.2
+2017-06-29 21:53:21 [INFO] [Tuto] Loading Tuto v1.0
+2017-06-29 21:53:21 [INFO] Preparing level "world"
+2017-06-29 21:53:21 [INFO] -------- World Settings For [world] --------
+2017-06-29 21:53:21 [INFO] View Distance: 10
+2017-06-29 21:53:21 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 21:53:21 [INFO] Experience Merge Radius: 3.0
+2017-06-29 21:53:21 [INFO] Item Despawn Rate: 6000
+2017-06-29 21:53:21 [INFO] Item Merge Radius: 2.5
+2017-06-29 21:53:21 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 21:53:21 [INFO] Zombie Reinforcement: true
+2017-06-29 21:53:21 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 21:53:21 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 21:53:21 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 21:53:21 [INFO] Mob Spawn Range: 4
+2017-06-29 21:53:21 [INFO] Structure Info Saving: true
+2017-06-29 21:53:21 [INFO] Anti X-Ray: true
+2017-06-29 21:53:21 [INFO] 	Engine Mode: 1
+2017-06-29 21:53:21 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 21:53:21 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Cane Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Melon Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Random Lighting Updates: false
+2017-06-29 21:53:21 [INFO] -------- World Settings For [world_nether] --------
+2017-06-29 21:53:21 [INFO] View Distance: 10
+2017-06-29 21:53:21 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 21:53:21 [INFO] Experience Merge Radius: 3.0
+2017-06-29 21:53:21 [INFO] Item Despawn Rate: 6000
+2017-06-29 21:53:21 [INFO] Item Merge Radius: 2.5
+2017-06-29 21:53:21 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 21:53:21 [INFO] Zombie Reinforcement: true
+2017-06-29 21:53:21 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 21:53:21 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 21:53:21 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 21:53:21 [INFO] Mob Spawn Range: 4
+2017-06-29 21:53:21 [INFO] Structure Info Saving: true
+2017-06-29 21:53:21 [INFO] Anti X-Ray: true
+2017-06-29 21:53:21 [INFO] 	Engine Mode: 1
+2017-06-29 21:53:21 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 21:53:21 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Cane Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Melon Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Random Lighting Updates: false
+2017-06-29 21:53:21 [INFO] -------- World Settings For [world_the_end] --------
+2017-06-29 21:53:21 [INFO] View Distance: 10
+2017-06-29 21:53:21 [INFO] Chunks to Grow per Tick: 650
+2017-06-29 21:53:21 [INFO] Experience Merge Radius: 3.0
+2017-06-29 21:53:21 [INFO] Item Despawn Rate: 6000
+2017-06-29 21:53:21 [INFO] Item Merge Radius: 2.5
+2017-06-29 21:53:21 [INFO] Arrow Despawn Rate: 1200
+2017-06-29 21:53:21 [INFO] Zombie Reinforcement: true
+2017-06-29 21:53:21 [INFO] Entity Activation Range: An 32 / Mo 32 / Mi 16
+2017-06-29 21:53:21 [INFO] Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+2017-06-29 21:53:21 [INFO] Hopper Transfer: 8 Hopper Check: 8
+2017-06-29 21:53:21 [INFO] Mob Spawn Range: 4
+2017-06-29 21:53:21 [INFO] Structure Info Saving: true
+2017-06-29 21:53:21 [INFO] Anti X-Ray: true
+2017-06-29 21:53:21 [INFO] 	Engine Mode: 1
+2017-06-29 21:53:21 [INFO] 	Blocks: [1, 5, 14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+2017-06-29 21:53:21 [INFO] Cactus Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Cane Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Melon Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Mushroom Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Pumpkin Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Sapling Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Wheat Growth Modifier: 100%
+2017-06-29 21:53:21 [INFO] Random Lighting Updates: false
+2017-06-29 21:53:21 [INFO] Preparing start region for level 0 (Seed: 2402812476199241847)
+2017-06-29 21:53:22 [INFO] Preparing start region for level 1 (Seed: 2402812476199241847)
+2017-06-29 21:53:22 [INFO] Preparing start region for level 2 (Seed: 2402812476199241847)
+2017-06-29 21:53:22 [INFO] [Essentials] Enabling Essentials v2.12.2
+2017-06-29 21:53:22 [INFO] Le format de la version de Bukkit a été changé. La version n'a pas été vérifiée.
+2017-06-29 21:53:22 [INFO] git-Spigot-unknown (MC: 1.7.2)
+2017-06-29 21:53:22 [INFO] 1.6.4-R2.1-SNAPSHOT
+2017-06-29 21:53:22 [INFO] Essentials: Using config file enhanced permissions.
+2017-06-29 21:53:22 [INFO] Permissions listed in as player-commands will be given to all users.
+2017-06-29 21:53:22 [INFO] [Tuto] Enabling Tuto v1.0
+2017-06-29 21:53:22 [INFO] [Tuto] Plugin Tuto active
+2017-06-29 21:53:22 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2017-06-29 21:53:22 [INFO] Done (1,412s)! For help, type "help" or "?"
+2017-06-29 21:53:22 [INFO] HotFixer hooked into Essentials for fixing bugs. (c) Kangarko
+2017-06-29 21:53:26 [INFO] Plugins (2): [0;32;1mEssentials[0;37;1m, [0;32;1mTuto[m
+2017-06-29 21:53:48 [INFO] CONSOLE: Stopping the server..[m
+2017-06-29 21:53:48 [INFO] Stopping server
+2017-06-29 21:53:48 [INFO] [Tuto] Disabling Tuto v1.0
+2017-06-29 21:53:48 [INFO] [Tuto] Plugin Tuto desactive
+2017-06-29 21:53:48 [INFO] [Essentials] Disabling Essentials v2.12.2
+2017-06-29 21:53:48 [INFO] Saving players
+2017-06-29 21:53:48 [INFO] Saving worlds
+2017-06-29 21:53:48 [INFO] Saving chunks for level 'world'/Overworld
+2017-06-29 21:53:48 [INFO] Saving chunks for level 'world_nether'/Nether
+2017-06-29 21:53:48 [INFO] Saving chunks for level 'world_the_end'/The End
